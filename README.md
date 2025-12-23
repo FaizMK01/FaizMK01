@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Flutter Developer** with **10+ months** of hands-on experience building cross-platform mobile applications. Currently working at **11 Values** in Rawalpindi, where I develop innovative mobile solutions and continuously expand my skill set.
+I'm a passionate **Flutter Developer** with **1 year** of hands-on experience building cross-platform mobile applications. Currently working at **11 Values** in Rawalpindi, where I develop innovative mobile solutions and continuously expand my skill set.
 
 🔭 **Currently working on:** Digital clock app with prayer timing integration and AI-powered features  
 🌱 **Currently learning:** Backend development with Node.js and Firebase Cloud Functions  
