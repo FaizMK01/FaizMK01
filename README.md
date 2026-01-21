@@ -156,16 +156,5 @@ I'm a passionate **Flutter Developer** with **1 year** of hands-on experience bu
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760677-2312c57f-5835-4c6a-a3c2-4e95e0f8c003.gif" width="600">
-  
-  ### 💭 *"First, solve the problem. Then, write the code."* – John Johnson
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!+🚀;Always+ready+for+new+challenges!;Open+to+collaboration+and+opportunities!" alt="Closing Animation" />
-</div>
-
-[![](https://visitcount.itsvg.in/api?id=FaizMK01&icon=2&color=6)](https://visitcount.itsvg.in)
-
-</div>
 
 <!-- Proudly crafted with passion for mobile development 📱 -->
