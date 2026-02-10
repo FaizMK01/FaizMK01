@@ -1,160 +1,196 @@
-# Hi there! 👋 I'm 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Faiz+Muhammad+Khan" alt="Name Animation" />
-</div>
+# It's Me! 👋  Faiz Muhammad Khan
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=Flutter+Developer;Mobile+App+Developer;Cross-Platform+Expert;Firebase+Specialist;Backend+Developer;Always+Learning+New+Technologies" alt="Role Animation" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+App+Developer;Cross-Platform+Expert;Firebase+Specialist" alt="Role Animation" />
 
-## 🚀 About Me
 
-I'm a passionate **Flutter Developer** with **1 year** of hands-on experience building cross-platform mobile applications. Currently working at **11 Values** in Rawalpindi, where I develop innovative mobile solutions and continuously expand my skill set.
+## 👨‍💻 About Me
 
-🔭 **Currently working on:** Digital clock app with prayer timing integration and AI-powered features  
-🌱 **Currently learning:** Backend development with Node.js and Firebase Cloud Functions  
-💼 **Experience:** Professional internships and self-developed projects in mobile app development  
-📍 **Location:** Islamabad, Pakistan  
-🎯 **Focus:** Clean architecture, responsive UIs, and seamless user experiences  
+I'm a passionate **Flutter Developer** with **1+ year** of hands-on experience building cross-platform mobile applications. I specialize in creating clean, responsive UIs and delivering high-quality mobile applications through professional internships and self-developed projects.
+
+🔭 **Currently working at:** 11 Values as Flutter Developer  
+🎓 **Education:** BS Computer Science, Islamia College University Peshawar (2020-2024)  
+📧 **Email:** faizmk340@gmail.com  
+📱 **Phone:** +92 318 5441753  
 
 ### 💡 What I Do:
-- 📱 Build cross-platform mobile apps with Flutter & Dart
-- 🔥 Implement Firebase solutions (Auth, Firestore, Storage, Cloud Messaging)
-- 🌐 Integrate REST APIs and third-party services
+- 📱 Build cross-platform mobile applications with Flutter & Dart
+- 🔥 Implement Firebase solutions (Authentication, Firestore, Storage, Cloud Messaging, Cloud Functions)
+- 🌐 Integrate REST APIs using Http and Dio
 - 💳 Develop secure payment systems with Stripe
 - 🗺️ Create location-based features with Google Maps
-- 🤖 Implement AI integrations and chatbot solutions
-- 🎨 Convert Figma designs to pixel-perfect Flutter UIs
-
-## 🌐 Connect With Me:
-
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faiz-mk-0205a52ba/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/faiz.mk.773)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizmk340@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FaizMK01)
-
-
-
-## 💻 Tech Stack:
-
-### 🎯 **Core Languages & Frameworks**
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### ☁️ **Backend & Cloud Services**
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### 🗄️ **Databases**
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-
-### 🛠️ **Development Tools**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-### 🎨 **Design & Integration Tools**
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+- 🤖 Build AI-powered applications and chatbot solutions
+- 🎨 Design clean, responsive UIs following Clean Architecture and MVVM/MVC patterns
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
+## 🌐 Connect With Me
 
-## 🏆 Featured Projects:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faiz-mk-0205a52ba/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FaizMK01)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizmk340@gmail.com)
 
-### 🕌 **Digital Prayer Clock App** *(Current Project)*
-- Real-time prayer timings with location detection
-- Aladhan API integration for accurate schedules
-- Push notifications with Firebase Cloud Functions
-- AI-powered query assistance with custom model
-- **Tech Stack:** Flutter, GetX, Firebase, Twilio, AI Integration
+---
 
-### 💬 **Real-Time Chat App**
-- Cross-platform messaging with Firebase backend
+## 💼 Professional Experience
+
+### **11 Values** - *Flutter Developer*
+🗓️ June 2024 – Sep 2024    |📍 On-site 
+
+* Built a Flutter digital clock app that detects user location and shows the nearest mosque with live prayer
+* times and weather.
+* Integrated Aladhan API, Firebase (Firestore, Cloud Messaging, Cloud Functions), and GetX for reactive UI
+  and targeted notifications.
+* Developed ABC Islam, featuring:
+* ABC Learning: Audio with snackbar text display.
+* ABC Random: Letter-based multiple-choice quizzes.
+* ABC Symbols: Videos for ABC Learning, Numbers (1–10), and 99 Names of Allah.
+* In Ezee Scanner, if a user logs in with Google, the scanned documents are automatically uploaded to
+  Google Drive, integrated using OAuth 2.0 authentication.
+* Added a watermark feature where the user can write the scan purpose.
+* Added an Edit and Blur feature
+* Worked on the Bulgarian project, where I implemented login, signup, and forgot password authentication.
+* Added an event feature in which the user receives notifications with the help of the Google Calendar API
+
+### **Code X Dev** - *Flutter Developer*
+🗓️ Jan 2025 – March 2025    |📍 On-site 
+
+* Built and enhanced Sales Reports, Product Management, and Payment Modules to improve business
+  operations.
+* Optimized image sliders and history tracking for faster load times and smoother performance.
+* Designed and implemented Settings pages including Disclaimer, About Us, and Privacy Policy for better
+  user transparency.
+* Integrated secure payment handling and ensured data consistency across modules.
+* Collaborated on UI/UX improvements to make navigation and reporting more user-friendly
+
+### **Synergistic Tech Solutions** - *Flutter Developer Intern*
+🗓️ July 2025 – Present    |📍 On-site 
+
+* Developed a Flutter Notes App with secure Login and Signup functionality.
+* Implemented Cloud Firestore to store and manage user notes and integrated Firebase Storage for image.
+* Built a Settings section where users can view and update their personal details.
+* Designed a clean, responsive UI with real-time data syncing for a seamless note-taking experience.
+
+---
+
+## 🚀 Featured Projects
+
+### 📝 **Notes App with Firebase**
+**Tech Stack:** Flutter, Firebase (Authentication, Firestore, Storage), GetX
+
+- Secure Login and Signup functionality
+- Cloud Firestore for note storage and Firebase Storage for images
+- Settings section for user profile management
+- Real-time data syncing with responsive UI
+
+🔗 [View on GitHub](https://github.com/FaizMK01)
+
+---
+
+### 💬 **Chat App with Push Notifications**
+**Tech Stack:** Flutter, Firebase (Authentication, Firestore, Cloud Storage), GetX, MVC
+
 - Google Sign-In authentication
-- Push notifications for all app states
+- Push notifications for foreground, background, and terminated states
 - Real-time last-seen tracking
-- **Tech Stack:** Flutter, Firebase, GetX
+- Instant message sync with Cloud Storage for media
+
+🔗 [View on GitHub](https://github.com/FaizMK01)
+
+---
+
+### 🤖 **Chat AI Bot**
+**Tech Stack:** Flutter, GetX, MVC, AI APIs, Custom Animations
+
+- Text-to-image generation
+- Multi-language translation
+- Media sharing capabilities
+- Custom animations for enhanced UX
+
+🔗 [View on GitHub](https://github.com/FaizMK01)
+
+---
 
 ### 🛒 **E-Commerce App with Stripe Payment**
-- Complete shopping solution with secure payments
+**Tech Stack:** Flutter, Firebase (Authentication, Firestore, Cloud Storage), GetX, Stripe, MVC
+
 - Separate user and admin panels
-- Real-time product management
-- **Tech Stack:** Flutter, Firebase, Stripe, GetX
+- Admin panel for product management with instant updates
+- Stripe payment integration
+- GetX state management for smooth navigation
+
+🔗 [View on GitHub](https://github.com/FaizMK01)
+
+---
 
 ### 🏥 **Doctor Appointment App**
-- Google Maps integration for nearby doctors
-- Real-time booking system
-- Interactive map with 10km radius search
-- **Tech Stack:** Flutter, Google Maps API, Firebase, GetX
+**Tech Stack:** Flutter, Firebase (Authentication, Firestore, Cloud Storage), Google Maps, GetX, MVC
 
-### 🤖 **Chat-AI App**
-- AI-powered text-to-image generation
-- Multi-language translation features
-- Media sharing capabilities
-- **Tech Stack:** Flutter, AI APIs, GetX
+- Google Maps integration displaying nearest doctors within 10 km
+- Interactive map markers
+- Real-time doctor booking system
+- Location-based search functionality
 
-## 📊 GitHub Analytics:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FaizMK01&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaizMK01&theme=dracula&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizMK01&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-
-### 🔝 **Top Contributed Repositories**
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=FaizMK01&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</div>
-
-## 🎯 Professional Experience:
-
-### **Flutter Developer** - *11 Values, Rawalpindi* `(July 2025 - Present)`
-- Developing innovative prayer timing app with location services
-- Implementing Firebase Cloud Functions for backend logic
-- Integrating AI models for user query assistance
-
-### **Flutter Developer** - *Codex Dev, Peshawar* `(January 2025 - March 2025)`
-- Enhanced business applications with payment modules
-- Optimized performance for faster load times
-- Improved UI/UX for better user experience
-
-### **Flutter Developer Intern** - *Synergistic Solutions, Mardan* `(June 2024 - September 2024)`
-- Built secure note-taking application
-- Implemented Firebase integration for data management
-- Designed responsive UI with real-time synchronization
+🔗 [View on GitHub](https://github.com/FaizMK01)
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
+## 💻 Technical Skills
 
-## 🎓 Education:
-- **BS Computer Science** - *Islamia College University Peshawar* (2020-2024)
-- **FSC (Pre-Engineering)** - *Allama Iqbal Model School & College Sakhakot* (2018-2020)
-- **Matric (Science)** - *Allama Iqbal Model School & College Sakhakot* (2016-2018)
+### **Mobile Development**
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+**Core Competencies:** Cross-Platform Development, Responsive Design, OOP Principles
+
+### **Architecture Patterns**
+- Clean Architecture
+- MVVM (Model-View-ViewModel)
+- MVC (Model-View-Controller)
+
+### **State Management**
+- Provider
+- GetX
+
+### **Backend & APIs**
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+- REST APIs (Http, Dio)
+- Firebase Authentication, Firestore, Cloud Storage
+- Firebase Cloud Messaging & Cloud Functions
+- Real-time Database
+- Shared Preferences
+
+### **Additional Technologies**
+- Stripe Payment Integration
+- AI Integration (Text-to-Image, Translation)
+- Google Maps API
+- Implicit & Explicit Animations
+
+### **Programming Languages**
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### **Development Tools**
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
+## 🎯 Soft Skills
 
-<!-- Proudly crafted with passion for mobile development 📱 -->
+- 🧩 Problem Solving
+- 📝 Technical Writing
+- 🤝 Team Collaboration
+- 🔍 Research & Searching
+- 💭 Critical Thinking
+- ⏰ Time Management
+
+---
+
+## 📜 Certifications
+
+- **Flutter Development** - Decode Training Programming
+
